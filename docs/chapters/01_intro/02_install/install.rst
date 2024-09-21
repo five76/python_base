@@ -35,13 +35,13 @@
 WINDOWS
 """"""""
 
-.. figure:: img/01_inst_01.png
+.. figure:: img/02_inst_01.png
        :scale: 100 %
        :align: center
        :alt: asda
 
 
-.. figure:: img/01_inst_02.png
+.. figure:: img/02_inst_02.png
        :scale: 100 %
        :align: center
        :alt: asda
@@ -54,25 +54,30 @@ LINUX
 
 Перед установкой необходимо проверить наличие предустановленной версии Python
 
+
 ::
 
         python --version
 
 
-.. figure:: img/01_inst_03.png
+
+.. figure:: img/02_inst_03.png
        :scale: 100 %
        :align: center
        :alt: asda
 
 
+
 Если python3 не установлен или версия ниже 3.9, или требуется более новая версия, то необходимо выполнить установку:
+
 
 ::
 
         sudo apt-get install pytho3 -y
 
 
-.. figure:: img/01_inst_04.png
+
+.. figure:: img/02_inst_04.png
        :scale: 100 %
        :align: center
        :alt: asda
@@ -84,18 +89,24 @@ LINUX
 
 В Linux необходимо выполнить команду:
 
+
 ::
 
         sudo apt-get install python3-pip
 
-или
+
+или (например, в ALT Linux)
+
 
 ::
 
        sudo apt-get install python3-module-pip
 
 
-.. figure:: img/01_inst_04.png
+
+.. figure:: img/02_inst_04.png
        :scale: 100 %
        :align: center
        :alt: asda 
+
+
