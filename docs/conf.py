@@ -17,8 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Сетевое и системное администрирование'
-copyright = '2020-2022'
+project = 'Основы Python'
+copyright = '2024-2025'
 author = 'qwe'
 
 
