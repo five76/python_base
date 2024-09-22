@@ -128,6 +128,6 @@ Jupyter Notebook - это приложение для создания запи�
    :maxdepth: 1
    
    idle
-   pycharm
+   vsc
    jupyter
 

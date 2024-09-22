@@ -105,7 +105,7 @@ https://skillbox.ru/media/code/osnovy-idle-v-python-ot-zapuska-do-pervoy-program
 
 
 
-Jupiter Notebook
+Jupyter Notebook
 """""""""""""""""
 
 Jupyter Notebook - это приложение для создания записных книжек, созданное под эгидой Project Jupyter. Jupyter Notebook предлагает новые быстрые и интерактивные способы создания прототипов и объяснения кода, изучения и визуализации данных, а также обмена идеями с другими пользователями.
