@@ -24,6 +24,8 @@ Visual Studio Code
 Создание первой программы в VSC
 """"""""""""""""""""""""""""""""
 
+Напечатать фразу 'Hello, world!'
+
 1. В меню выбрать **File->New file**
 
 .. figure:: img/03_vsc_04.png
@@ -68,7 +70,61 @@ Visual Studio Code
 6. Результат выполнения
 
 
-.. figure:: img/03_vsc_07.png
+.. figure:: img/03_vsc_08.png
        :scale: 100 %
        :align: center
        :alt: asda
+
+**Пример 2**
+
+Создать программу для нахождения разности 2 чисел
+
+Для дальнейшей работы создайте каталог **python_files** в **Мои документы**
+
+1. В VSC открыть каталог **python_files** 
+
+
+.. figure:: img/03_vsc_09.png
+       :scale: 100 %
+       :align: center
+       :alt: asda
+
+2. Создать каталог **01_Введение**
+
+.. figure:: img/03_vsc_10.png
+       :scale: 100 %
+       :align: center
+       :alt: asda
+
+3. Выделить созданный каталог и создать в нем файл **ex_01_diff_num.py**
+
+.. figure:: img/03_vsc_11.png
+       :scale: 100 %
+       :align: center
+       :alt: asda
+
+4. Ввести текст программы
+
+.. figure:: img/03_vsc_12.png
+       :scale: 100 %
+       :align: center
+       :alt: asda
+
+5. Выполнить программу (без отладки CTRL + F5)
+
+.. figure:: img/03_vsc_13.png
+       :scale: 100 %
+       :align: center
+       :alt: asda
+
+Пояснения:
+
+# - однострочный комментарий
+
+'''
+
+        ...    многострочный комментарий
+
+'''
+
+
