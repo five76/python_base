@@ -8,3 +8,4 @@
    01_history/history
    02_install/install
    03_ide/ide
+   04_characteristic/characteristic

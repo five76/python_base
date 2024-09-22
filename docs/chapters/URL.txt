@@ -1,0 +1,7 @@
+Парадигмы
+https://sky.pro/wiki/python/paradigmy-i-stili-programmirovaniya-python-obzor-i-primery/
+
+Чистый код
+
+https://teletype.in/@maxycrypto/clean_python
+https://proglib.io/p/3-principa-napisaniya-chistogo-koda-na-python-2022-12-26
