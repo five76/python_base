@@ -24,4 +24,5 @@
    :maxdepth: 4
    :caption: Оглавление
 
-   01_type/type_number
+   01_num/type_number
+   02_bool/type_bool
