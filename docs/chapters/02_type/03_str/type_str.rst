@@ -119,8 +119,6 @@ Cрезом строки является ее непрерывная часть
    :hidden:
 
    string_methods
-   string_format
-   string_literal_concatenation
-
+   string_examples
 
 
