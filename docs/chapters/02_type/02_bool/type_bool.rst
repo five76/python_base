@@ -78,12 +78,15 @@ True и False являются экземплярами класса bool, ко�
 
 Пример использования оператора and:
 
+
 .. code-block:: python
+   
         x = 5
         y = 10
          
         result = (x < 0) and (y < 20)
         print(result)
+
 
 .. figure:: img/02_bool_01.PNG
        :scale: 100 %
