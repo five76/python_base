@@ -30,7 +30,7 @@
 Вычислений в выражениях составляют основу подавляющего большинства программ. Для этой цели Python использует 6 основных операций, каждая из которых имеет свой знак. Вот эти операции, они выполняются над числовыми значениями:
 
 
-.. figure:: img/01_type_02.png
+.. figure:: img/01_type_02.PNG
        :scale: 100 %
        :align: center
        :alt: asda
@@ -45,7 +45,7 @@
         print(5 ** 67)
 
         
-.. figure:: img/01_type_03.png
+.. figure:: img/01_type_03.PNG
        :scale: 100 %
        :align: center
        :alt: asda
@@ -53,7 +53,7 @@
 Тип результата выполнения выражения будет зависеть от типа операндов, входящих в это выражение:
 
 
-.. figure:: img/01_type_04.png
+.. figure:: img/01_type_04.PNG
        :scale: 100 %
        :align: center
        :alt: asda
@@ -90,7 +90,7 @@
 приоритета операций.
 
 
-.. figure:: img/01_type_05.png
+.. figure:: img/01_type_05.PNG
        :scale: 100 %
        :align: center
        :alt: asda
@@ -104,7 +104,7 @@
         print((-2) ** 4 + 100)      
 
 
-.. figure:: img/01_type_05.png
+.. figure:: img/01_type_05.PNG
        :scale: 100 %
        :align: center
        :alt: asda
@@ -114,7 +114,7 @@
 
  Python печатает только десятичное приближение к истинному десятичному значению двоичного приближения, хранящегося на машине. 
 
-.. figure:: img/01_type_08.png
+.. figure:: img/01_type_08.PNG
        :scale: 100 %
        :align: center
        :alt: asda
@@ -181,7 +181,7 @@
         print(abs(-9) + abs(5.6))
 
         
-.. figure:: img/01_type_07.png
+.. figure:: img/01_type_07.PNG
        :scale: 100 %
        :align: center
        :alt: asda
