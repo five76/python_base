@@ -26,3 +26,4 @@
 
    01_num/type_number
    02_bool/type_bool
+   03_str/type_str
