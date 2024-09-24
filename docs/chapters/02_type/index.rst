@@ -28,3 +28,4 @@
    02_bool/type_bool
    03_str/type_str
    04_list/type_list
+   05_dict/type_dict
