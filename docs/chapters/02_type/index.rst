@@ -29,4 +29,4 @@
    03_str/type_str
    04_list/type_list
    05_dict/type_dict
-   06_dict/type_tuple
+   06_tuple/type_tuple
