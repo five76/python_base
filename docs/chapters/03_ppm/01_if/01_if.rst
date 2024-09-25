@@ -271,12 +271,33 @@ True и False
        :align: center
        :alt: asda
 	   
-	   
+ 
 
 
 Оператор in
 """"""""""""
-Оператор in позволяет выполнять проверку на наличие элемента в последовательности (например, элемента в списке или подстроки в строке):
+
+Оператор in выполняет проверку на наличие элемента в последовательности (например, элемента в списке или подстроки в строке):
+
+.. code:: python
+
+        my_val = 10
+		list1 = [10, 20, 30, 77]
+		if my_val in list1:
+		    print(True)
+		else:
+		print(False)
+		
+		True
+		
+.. code:: python
+
+        my_str = 'full'
+		string1 = 'List is empty'
+		print(my_str in string1)
+		
+		False
+        
 
 
 
