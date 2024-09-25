@@ -240,7 +240,7 @@ True и False
 
 Если есть один False, то будет возвращен первый False
 
-.. figure:: img/01_if_01.PNG
+.. figure:: img/01_if_01.png
        :scale: 100 %
        :align: center
        :alt: asda
@@ -253,7 +253,7 @@ True и False
 
 **False** возвращается, если все операнды **False** 
 
-.. figure:: img/01_if_02.PNG
+.. figure:: img/01_if_02.png
        :scale: 100 %
        :align: center
        :alt: asda
@@ -266,7 +266,7 @@ True и False
 
 Принимает значение True, если применяется к операнду, имеющему значение False и наоборот.
 
-.. figure:: img/01_if_03.PNG
+.. figure:: img/01_if_03.png
        :scale: 100 %
        :align: center
        :alt: asda
