@@ -16,5 +16,6 @@
    :caption: Оглавление
 
    01_if/01_if
+   02_cicle/02_cicle
    
    
