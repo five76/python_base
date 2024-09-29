@@ -5,3 +5,13 @@ https://sky.pro/wiki/python/paradigmy-i-stili-programmirovaniya-python-obzor-i-p
 
 https://teletype.in/@maxycrypto/clean_python
 https://proglib.io/p/3-principa-napisaniya-chistogo-koda-na-python-2022-12-26
+
+Разбор:
+
+https://www.w3schools.com/python/python_file_remove.asp
+
+
+Примеры:
+
+https://w3resource.com/python-exercises/map/index.php
+
