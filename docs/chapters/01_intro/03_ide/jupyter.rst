@@ -37,7 +37,7 @@ Notebook содержит входные и выходные данные инт
 
 ::
 
-        jupiter-notebook
+        jupyter-notebook
 
 
 .. figure:: img/03_jup_02.png
