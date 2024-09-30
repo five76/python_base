@@ -9,3 +9,4 @@
    02_install/install
    03_ide/ide
    04_characteristic/characteristic
+   05_struct/struct
