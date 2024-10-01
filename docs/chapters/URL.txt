@@ -1,6 +1,12 @@
 Парадигмы
 https://sky.pro/wiki/python/paradigmy-i-stili-programmirovaniya-python-obzor-i-primery/
 
+
+
+https://docs-python.ru/
+
+
+
 Чистый код
 
 https://teletype.in/@maxycrypto/clean_python
@@ -15,3 +21,4 @@ https://www.w3schools.com/python/python_file_remove.asp
 
 https://w3resource.com/python-exercises/map/index.php
 
+https://w3resource.com/python-exercises/date-time-exercise/index.php
