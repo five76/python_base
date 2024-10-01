@@ -31,4 +31,5 @@
    05_dict/type_dict
    06_tuple/type_tuple
    07_set/type_set
+   10/type_tasks
    
