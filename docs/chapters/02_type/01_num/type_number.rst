@@ -29,8 +29,7 @@
 
 Вычислений в выражениях составляют основу подавляющего большинства программ. Для этой цели Python использует 6 основных операций, каждая из которых имеет свой знак. Вот эти операции, они выполняются над числовыми значениями:
 
-
-.. figure:: img/01_type_02.PNG
+.. figure:: img/01_type_02.png
        :scale: 100 %
        :align: center
        :alt: asda
@@ -45,7 +44,7 @@
         print(5 ** 67)
 
         
-.. figure:: img/01_type_03.PNG
+.. figure:: img/01_type_03.png
        :scale: 100 %
        :align: center
        :alt: asda
@@ -53,7 +52,7 @@
 Тип результата выполнения выражения будет зависеть от типа операндов, входящих в это выражение:
 
 
-.. figure:: img/01_type_04.PNG
+.. figure:: img/01_type_04.png
        :scale: 100 %
        :align: center
        :alt: asda
@@ -90,7 +89,7 @@
 приоритета операций.
 
 
-.. figure:: img/01_type_05.PNG
+.. figure:: img/01_type_05.png
        :scale: 100 %
        :align: center
        :alt: asda
@@ -104,7 +103,7 @@
         print((-2) ** 4 + 100)      
 
 
-.. figure:: img/01_type_05.PNG
+.. figure:: img/01_type_05.png
        :scale: 100 %
        :align: center
        :alt: asda
@@ -114,13 +113,13 @@
 
  Python печатает только десятичное приближение к истинному десятичному значению двоичного приближения, хранящегося на машине. 
 
-.. figure:: img/01_type_08.PNG
+.. figure:: img/01_type_08.png
        :scale: 100 %
        :align: center
        :alt: asda
 
 
-Подробнее можно ознакомиться в `метериале <https://docs-python.ru/tutorial/operatsii-chislami-python/problemy-chisel-plavajuschej-zapjatoj/>`__ 
+Подробнее можно ознакомиться в `материале <https://docs-python.ru/tutorial/operatsii-chislami-python/problemy-chisel-plavajuschej-zapjatoj/>`__ 
     
 Для вычислений, где точность критична для бизнеса, числа с плавающей точкой могут вызывать ошибки при выполнении на другой машине. Поэтому для таких приложений необходим независимый от машины тип данных для реализации десятичных чисел, который был реализован с помощью модуля **decimal** в Python. 
 
@@ -175,7 +174,7 @@
         print("a+b==c?:", c == d)
 
 
-.. figure:: img/01_type_09.PNG
+.. figure:: img/01_type_09.png
        :scale: 100 %
        :align: center
        :alt: asda
@@ -239,7 +238,7 @@
         print(abs(-9) + abs(5.6))
 
         
-.. figure:: img/01_type_07.PNG
+.. figure:: img/01_type_07.png
        :scale: 100 %
        :align: center
        :alt: asda
@@ -264,7 +263,7 @@
 Встроенные
 """""""""""
 
-Встроенный модуль **math** в Python предоставляет набор функций для выполнения математических, тригонометрических и логарифмических операций. Некоторые из основных функций модуля:
+Модуль стандартной библиотеки **math** в Python предоставляет набор функций для выполнения математических, тригонометрических и логарифмических операций. Некоторые из основных функций модуля:
 
 ::
 
@@ -302,8 +301,6 @@ log10(n) - десятичный логарифм числа n
 Примеры:
 
 ::
-
-        import math
 
         import math
  
