@@ -103,7 +103,7 @@
         print((-2) ** 4 + 100)      
 
 
-.. figure:: img/01_type_05.png
+.. figure:: img/01_type_06.png
        :scale: 100 %
        :align: center
        :alt: asda
