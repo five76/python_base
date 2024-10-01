@@ -119,7 +119,7 @@
        :alt: asda
 
 
-Подробнее можно ознакомиться в `метериале <https://docs-python.ru/tutorial/operatsii-chislami-python/problemy-chisel-plavajuschej-zapjatoj/>`__ 
+Подробнее можно ознакомиться в `материале <https://docs-python.ru/tutorial/operatsii-chislami-python/problemy-chisel-plavajuschej-zapjatoj/>`__ 
     
 Для вычислений, где точность критична для бизнеса, числа с плавающей точкой могут вызывать ошибки при выполнении на другой машине. Поэтому для таких приложений необходим независимый от машины тип данных для реализации десятичных чисел, который был реализован с помощью модуля **decimal** в Python. 
 
