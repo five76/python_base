@@ -181,7 +181,7 @@
 	
 **Симметрическая разность множеств**
 
-.. figure:: img/07_set_05.PNG
+.. figure:: img/07_set_05.png
        :scale: 100 %
        :align: center
        :alt: asda
