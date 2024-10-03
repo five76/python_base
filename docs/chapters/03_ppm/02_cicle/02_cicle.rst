@@ -51,6 +51,8 @@
 
    for
    while
+   cicle_examples
+
 
 
 
