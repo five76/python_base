@@ -7,15 +7,8 @@ Cписок целых чисел
 
 .. code:: python
 
-	list_number = [12, -9, 3, -4, 89, 0]
-	new_list_number = []
-
-	for n in list_number:
-		if abs(n) > 5:
-			new_list_number.append(n)
-	print(new_list_number)
-
-	[12, -9, 89]
+	//
+	
 
 Верхний регистр
 """"""""""""""""
@@ -29,22 +22,7 @@ Cписок целых чисел
 
 .. code:: python
 
-	input_string = 'Сетевая карта устройства имеет mac-адрес aa12:456d:fe43'
-	output_string = ''
-
-	# Для каждого символа в строке выполнить:
-	for ch in input_string:
-		# ord - код символа в таблице ASCII. Если код от 97 до 122, то меняем его на ВЕРХНИЙ
-		if ord(ch) >= 97 and ord(ch) <= 122:
-			ch = ch.upper() 
-		# Добавляем символ к новой строке
-		output_string += ch
-
-	print(output_string)
 		
-	Сетевая карта устройства имеет MAC-адрес AA12:456D:FE43
-	
-	
 	
 
 Список сотрудников
@@ -66,13 +44,7 @@ Cписок целых чисел
 
 .. code:: python
 
-	for id, empl_string in  dict_empl.items():
-		fio, bd = empl_string.split(',')
-		ln, fn, mn = fio.split()
-		d, m, y = bd.split('.')
-		if int(y) < 2000:
-			print(f'{ln} {fn[0]}. {mn[0]}. - {y}')
-
+	
 
 **Дополнительно:**
 
