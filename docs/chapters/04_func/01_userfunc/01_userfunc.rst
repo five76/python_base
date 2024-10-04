@@ -156,11 +156,6 @@
 
 	is_leap_year?
 
-.. figure:: img/01_usefunc_02.png
-       :scale: 100 %
-       :align: center
-       :alt: asda
-
 	is_leap_year.__doc__
 	
 	'\n    Функция определения високосности года\n    '
