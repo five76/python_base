@@ -57,6 +57,8 @@
 
    01_userfunc/01_userfunc
    02_bultin/02_bultin
+   examples/func_examples
+   
    
 
    

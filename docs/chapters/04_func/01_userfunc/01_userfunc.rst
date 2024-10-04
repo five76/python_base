@@ -522,16 +522,29 @@
 
 Комбинация позиционных и ключевых элементов
 ````````````````````````````````````````````````
+
 Можно комбинировать два типа аргументов в одной и той же функции.
 
 Любой аргумент перед символом / предназначен только для позиционных аргументов, а любой аргумент после символа * - только для ключевых слов.
 
-def my_function(a, b, /, *, c, d):
-  print(a + b + c + d)
+.. code:: python
 
-my_function(5, 6, c = 7, d = 8)
+	def my_function(a, b, /, *, c, d):
+	  print(a + b + c + d)
+	  
 
-my_function(5, c = 7, d = 8, 6)
+	my_function(5, 6, c = 7, d = 8)
+
+	26
+	
+.. code:: python
+	
+	my_function(5, c = 7, d = 8, 6)
+	
+	Cell In[59], line 1
+    my_function(5, c = 7, d = 8, 6)
+                                  ^
+	SyntaxError: positional argument follows keyword argument
 
 **Ошибка:** позиционный аргумент **6** записан после ключевых
 
@@ -546,25 +559,36 @@ my_function(5, c = 7, d = 8, 6)
 
 Синтаксис:
 
-<b>lambda</b> <em>arguments<em> : <em>expression<em>
+**lambda** *arguments* : *expression*
 
 # Добавить значение 10 к аргументу и вернуть результат
 
-x = lambda a : a + 10
-print(x(5))
+.. code:: python
 
+	x = lambda a : a + 10
+	print(x(5))
+
+	15
+	
 Функция является объектом, поэтому можно ее присвоить какой-нибудь переменной. В данном случае x. При вызове x c аргументом 5 данное значение записывается в параметр a и будет срабатывать иструкция 5 + 10. Возвращен результат 15.
 
 # Перемножить аргументы a и b и вернуть результат
 
-x = lambda a, b : a * b
-print(x(5, 6))
+.. code:: python
+
+	x = lambda a, b : a * b
+	print(x(5, 6))
+
+	30
 
 Создать lambda-функцию, возвращающую первый и последний символ строки 
 
-f = lambda x: x[0] + x[-1]
-print(f('Jupyter'))
+.. code:: python
 
+	f = lambda x: x[0] + x[-1]
+	print(f('Jupyter'))
+
+	Jr
 
 
 
