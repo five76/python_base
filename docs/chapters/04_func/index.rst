@@ -56,7 +56,7 @@
    :caption: Оглавление
 
    01_userfunc/01_userfunc
-   02_bultin/02_bultin
+   02_builtin/02_builtin
    examples/func_examples
    
    
