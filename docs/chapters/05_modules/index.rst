@@ -20,5 +20,6 @@
    :caption: Оглавление
 
    01_modules/01_modules
+   pep8_modules
    
    
