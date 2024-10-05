@@ -27,3 +27,8 @@ https://www.w3schools.com/python/python_file_remove.asp
 https://w3resource.com/python-exercises/map/index.php
 
 https://w3resource.com/python-exercises/date-time-exercise/index.php
+
+
+pathlib
+https://python-scripts.com/pathlib
+
