@@ -11,10 +11,11 @@ https://docs-python.ru/
 
 
 
-Чистый код
-
+Чистый код. PEP 8
+https://python.ivan-shamaev.ru/pep8-python-code-rules-programmers-guide/
 https://teletype.in/@maxycrypto/clean_python
 https://proglib.io/p/3-principa-napisaniya-chistogo-koda-na-python-2022-12-26
+
 
 Разбор:
 
