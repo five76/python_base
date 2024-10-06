@@ -58,6 +58,7 @@
    01_userfunc/01_userfunc
    02_builtin/02_builtin
    examples/func_examples
+   tasks/fubc_tasks
    
    
 
