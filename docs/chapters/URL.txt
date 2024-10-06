@@ -16,6 +16,17 @@ https://python.ivan-shamaev.ru/pep8-python-code-rules-programmers-guide/
 https://teletype.in/@maxycrypto/clean_python
 https://proglib.io/p/3-principa-napisaniya-chistogo-koda-na-python-2022-12-26
 
+--------------------
+Дата-время
+
+https://sky.pro/wiki/python/poluchenie-nazvaniya-mesyatsa-iz-ego-nomera-v-python/
+
+
+
+
+---------------------------------------
+
+
 
 Разбор:
 
@@ -27,7 +38,9 @@ https://www.w3schools.com/python/python_file_remove.asp
 https://w3resource.com/python-exercises/map/index.php
 
 https://w3resource.com/python-exercises/date-time-exercise/index.php
+------------------------------------------------------------------------------
 
+Модули
 
 pathlib
 https://python-scripts.com/pathlib
