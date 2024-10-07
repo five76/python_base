@@ -22,5 +22,6 @@
    01_modules/01_modules
    02_os_modules/index
    pep8_modules
+   examples/modules_examples
    
    
