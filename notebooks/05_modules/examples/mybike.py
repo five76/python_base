@@ -13,10 +13,11 @@ def load_dataset(file_name=''):
 
 
 def define_sales_cities(city=None,bike=None,lst=[]):
-    city_lst = []
+    city_list = []
+    #print(lst)
     for el in lst:
-        city_lst.append(el[6])
-    return set(city_lst)
+        city_list.append(el[6])
+    return list(set(city_list))
     
     
 def calculate_sum_city(city=None, lst=[]):
