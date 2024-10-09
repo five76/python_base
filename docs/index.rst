@@ -10,6 +10,7 @@
    chapters/03_ppm/index.rst
    chapters/04_func/index.rst
    chapters/05_modules/index.rst
+   chapters/07_git/index.rst
    
    
     
