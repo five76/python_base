@@ -21,8 +21,8 @@
    :maxdepth: 4
    :caption: Оглавление
 
-   01_vcs/vcs
-   02_git/git
+   01_vcs/01_vcs
+   02_git/02_git
    examples/git_examples
    tasks/git_tasks
    
