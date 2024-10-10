@@ -22,7 +22,7 @@
    :caption: Оглавление
 
    01_vcs/01_vcs
-   02_git/02_git
+   02_git/git_01_intro
    examples/git_examples
    tasks/git_tasks
    

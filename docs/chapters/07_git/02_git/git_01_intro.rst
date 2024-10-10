@@ -95,7 +95,8 @@ GitHub — крупнейший веб-сервис для хостинга IT-�
 .. toctree::
    :maxdepth: 3
    
-   git_install
-   git_repo
+   git_02_install
+   git_03_repo
+   git_04_branch
    
 
