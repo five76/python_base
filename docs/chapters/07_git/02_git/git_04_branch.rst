@@ -33,7 +33,7 @@
 
 .. code::
 
-	$ git branch testing
+	git branch testing
 	
 .. figure:: img/01_git_16.png
        :scale: 100 %
@@ -55,7 +55,7 @@
 
 .. code::
 
-	$ git checkout testing
+	git checkout testing
 	
 После выполнения этой команды HEAD переместится и будет указывать на testing.
 
@@ -74,8 +74,8 @@
 
 .. code::
 
-	$ echo "print('Create new branch')" > hello_git.py
-	$ git commit -m 'Update hello_git.py'
+	echo "print('Create new branch')" > hello_git.py
+	git commit -m 'Update hello_git.py'
 
 .. figure:: img/01_git_19.png
        :scale: 100 %
@@ -92,7 +92,7 @@
 
 .. code::
 
-	$ git checkout master
+	git checkout master
 	
 Переключение на старую ветку master приведет к перемещению указателя HEAD и возврату файлов каталога в рабочее состояние в состояние, на снимок которого указывает master.
 
@@ -100,6 +100,20 @@
        :scale: 100 %
        :align: center
        :alt: Возврат в ветку master
+	   
+Визуализация
+==============
+
+.. code::
+
+	git log --oneline --decorate --graph --all
+
+
+Практика:
+*********
+
+1. 
+
 
 	   
 
