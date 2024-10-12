@@ -25,6 +25,7 @@
    02_git/git_01_intro
    examples/git_examples
    tasks/git_tasks
+   dop/git_dop
    
    
 
