@@ -45,3 +45,8 @@ https://w3resource.com/python-exercises/date-time-exercise/index.php
 pathlib
 https://python-scripts.com/pathlib
 
+
+
+Git
+
+https://smartiqa.ru/courses/git/lesson-5
