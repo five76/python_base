@@ -3,7 +3,7 @@ from decimal import Decimal
 
 def load_dataset(file_name=''):
     df = []
-    #with open('bike_sales_100k.csv', newline='',encoding='utf-8') as fp:
+    #with open('bike_sales.csv', newline='',encoding='utf-8') as fp:
     with open(file_name, newline='',encoding='utf-8') as fp:    
         reader = csv.reader(fp)
         next(reader)
