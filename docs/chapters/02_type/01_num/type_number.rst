@@ -339,3 +339,10 @@ log10(n) - десятичный логарифм числа n
 
 
 Подробнее `math <https://docs.python.org/3/library/math.html>`__
+
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   number_examples

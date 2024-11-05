@@ -43,6 +43,7 @@ Jupiter Notebook
 Метод join собирает список строк в одну строку с разделителем, который указан перед join:
 
 .. code-block:: python
+
         fio = ['Иванов', 'Петров', 'Сидоров']
         ','.join(fio)
 
@@ -57,6 +58,7 @@ Jupiter Notebook
 Многократное повторение строки
 
 .. code-block:: python
+
         s = '+' * 10
         print(s)
 
