@@ -79,4 +79,8 @@
    print(f'{last_name} {first_name}. {middle_name}.')
 
 
+.. figure:: img/03_str_10.PNG
+       :scale: 100 %
+       :align: center
+       :alt: asda
 
