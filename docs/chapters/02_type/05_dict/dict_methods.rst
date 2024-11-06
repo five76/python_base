@@ -95,7 +95,7 @@ keys()
 
 .. code:: python
 
-        print(phone_numbers.items())        
+        print(phone_numbers.keys())        
         
         ['Иванов', 'Петров', 'Сидоров', 'Сорокин', 'Васильев']
 
