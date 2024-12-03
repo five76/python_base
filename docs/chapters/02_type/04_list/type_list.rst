@@ -96,7 +96,7 @@ managers = list()
         # печать списка
         print(list1)
         # Печать первого элемента
-        print(list[1])
+        print(list1[1])
 
 Результат:
 
