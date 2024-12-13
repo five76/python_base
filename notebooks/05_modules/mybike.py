@@ -1,4 +1,4 @@
-
+import csv
 
 def define_city_sales(lst=[]):
     """
